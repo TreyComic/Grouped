@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Demo test1
-=======
-Demo test hopefully it works
->>>>>>> l
+<h1>Hello from nadin-2</h1>
